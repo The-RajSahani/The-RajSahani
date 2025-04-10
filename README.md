@@ -17,7 +17,7 @@
 
 > *"Code is poetry written in logic"* 
 
-I'm a passionate developer who thrives on turning innovative ideas into reality through elegant code. My journey in technology is fueled by curiosity and the endless possibilities of creating impactful solutions.
+I'm a skilled web developer and cybersecurity specialist delivering secure, visually engaging, and dynamic websites that enhance user experience while safeguarding your online presence. *Your vision, my innovation—together, we build digital success.*
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 

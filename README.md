@@ -1,13 +1,13 @@
 <div align="center">
   
-  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Shivam%20Singh&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Developer%20|%20Creator%20|%20Tech%20Enthusiast&descAlignY=55&descAlign=62)
+  
 
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Things)](https://git.io/typing-svg)
 
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=th-shivam&label=Profile%20Views&color=36BCF7&style=flat" alt="Profile Views" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=RAJ%20SAHANI&descAlign=0" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/th-shivam?label=Followers&style=social" alt="GitHub Followers" />
 </div>
 
@@ -47,8 +47,8 @@ I'm a passionate developer who thrives on turning innovative ideas into reality 
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=th-shivam&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=th-shivam&theme=react&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=the-Raj01&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=the-Raj01&theme=react&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
 </div>
 
 <div align="center">

@@ -1,14 +1,14 @@
 <div align="center">
   
-  
+  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Raj%20Sahani&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Developer%20|%20Creator%20|%20Tech%20Enthusiast&descAlignY=55&descAlign=62)
 
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Things)](https://git.io/typing-svg)
 
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=RAJ%20SAHANI&descAlign=0" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/th-shivam?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://komarev.com/ghpvc/?username=The-Raj01&label=Profile%20Views&color=36BCF7&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/The-Raj01?label=Followers&style=social" alt="GitHub Followers" />
 </div>
 
 <br/>
@@ -47,19 +47,19 @@ I'm a skilled web developer and cybersecurity specialist delivering secure, visu
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=the-Raj01&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=the-Raj01&theme=react&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=The-Raj01&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=The-Raj01&theme=react&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=th-shivam&theme=react&hide_border=true&bg_color=0D1117&layout=compact" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=The-Raj01&theme=react&hide_border=true&bg_color=0D1117&layout=compact" alt="Top Languages" width="48%" />
 </div>
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
   
-  ![Trophy](https://github-profile-trophy.vercel.app/?username=th-shivam&theme=algolia&no-frame=true&column=7&margin-w=5)
+  ![Trophy](https://github-profile-trophy.vercel.app/?username=The-Raj01&theme=algolia&no-frame=true&column=7&margin-w=5)
   
 </div>
 
@@ -74,12 +74,13 @@ I'm a skilled web developer and cybersecurity specialist delivering secure, visu
 ## 🤝 Connect With Me
 
 <div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raj-sahani-35082335b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raj-sahani-35082335b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
   [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]()
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rajsahanii__?igsh=OWVudjIwdnQ4M3p4)
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sahaniraj7267@gmail.com)
   
 </div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)<div align="center">
+  
+ 

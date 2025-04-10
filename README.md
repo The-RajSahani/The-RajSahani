@@ -67,7 +67,7 @@ I'm a skilled web developer and cybersecurity specialist delivering secure, visu
 
 <div align="center">
   
-  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=th-shivam&theme=react-dark&hide_border=true)
+  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=The-Raj01&theme=react-dark&hide_border=true)
   
 </div>
 

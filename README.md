@@ -1,9 +1,10 @@
-<div align="center ">
 
-  <img src="https://github.com/The-Raj01/The-Raj01/blob/main/SHIVAY.png?raw=true" alt="Om Namah Shivaya" width="150"/>
+<div align="center">
+<img src="https://github.com/The-Raj01/The-Raj01/blob/main/om_namah_shivaya_neon.gif?raw=true" alt="Shivay" height="180px">
 </div>
 
 <div align="center">
+
   
   ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Raj%20Sahani&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Developer%20|%20Creator%20|%20Tech%20Enthusiast&descAlignY=55&descAlign=62)
 

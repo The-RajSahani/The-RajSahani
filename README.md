@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/The-Raj01/The-Raj01/refs/heads/main/om_namah_shivaya_text_only_gradient%20(2).gif" alt="Om Namah Shivaya" width="100"/>
+  <img src="https://github.com/The-Raj01/The-Raj01/blob/main/SHIVAY.png?raw=true" alt="Om Namah Shivaya" height="300"/>
 </div>
 
 <div align="center">

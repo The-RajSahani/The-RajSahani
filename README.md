@@ -1,6 +1,6 @@
 
 <div align="center">
-<img src="https://github.com/The-Raj01/The-Raj01/blob/main/om_namah_shivaya_neon.gif?raw=true" alt="Shivay" height="180px">
+<img src="https://github.com/The-RajSahani/The-RajSahani/blob/main/om_namah_shivaya_neon.gif?raw=true" alt="Shivay" height="180px">
 </div>
 
 <div align="center">
@@ -13,8 +13,8 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=The-Raj01&label=Profile%20Views&color=36BCF7&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/The-Raj01?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://komarev.com/ghpvc/?username=The-RajSahani&label=Profile%20Views&color=36BCF7&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/The-RajSahani?label=Followers&style=social" alt="GitHub Followers" />
 </div>
 
 <br/>
@@ -53,19 +53,19 @@ I'm a skilled web developer and cybersecurity specialist delivering secure, visu
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=The-Raj01&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=The-Raj01&theme=react&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=The-RajSahani&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=The-RajSahani&theme=react&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=The-Raj01&theme=react&hide_border=true&bg_color=0D1117&layout=compact" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=The-RajSahani&theme=react&hide_border=true&bg_color=0D1117&layout=compact" alt="Top Languages" width="48%" />
 </div>
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
   
-  ![Trophy](https://github-profile-trophy.vercel.app/?username=The-Raj01&theme=algolia&no-frame=true&column=7&margin-w=5)
+  ![Trophy](https://github-profile-trophy.vercel.app/?username=The-RajSahani&theme=algolia&no-frame=true&column=7&margin-w=5)
   
 </div>
 
@@ -73,7 +73,7 @@ I'm a skilled web developer and cybersecurity specialist delivering secure, visu
 
 <div align="center">
   
-  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=The-Raj01&theme=react-dark&hide_border=true)
+  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=The-RajSahani&theme=react-dark&hide_border=true)
   
 </div>
 
